@@ -1,2 +1,4 @@
+python -m venv .venv
 streamlit
 google-generativeai
+streamlit run main.py
